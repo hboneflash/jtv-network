@@ -23,7 +23,7 @@ All links are relative, so the site works at a repository subpath or a custom do
 - `shows/eat-shit-darling/index.html`
 - `shows/star-trek-arjuna/index.html`
 
-`assets/styles.css` controls the look across the network. `assets/site.js` provides the mobile menu. The supplied Ravenswood artwork is used with the user's authorization for this concept mockup.
+`assets/styles.css` controls the look across the network. `assets/site.js` provides the mobile menu. The live repository currently uses a typography-and-gradient placeholder for the Ravenswood poster. The original poster is included in the downloadable site ZIP and can be uploaded in a later revision.
 
 ## Important distinctions
 
